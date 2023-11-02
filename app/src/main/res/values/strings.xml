@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Canion Game</string>
+    <string name="preference_file_key">scores</string>
+</resources>
