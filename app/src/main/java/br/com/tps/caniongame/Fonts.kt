@@ -6,6 +6,7 @@ import android.util.Log
 
 object Fonts {
 
+    //Teste
     lateinit var satarjedi: Typeface
 
     fun initializeFonts(context: Context) {
